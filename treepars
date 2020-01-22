@@ -1,0 +1,8 @@
+T        restart or not
+18        first snapshot
+24         last snapshot
+200.        boxsize in Mpc/h
+periodic   boundary condition
+0.2942     luminosity ratio
+4096        nb domain in input
+24          nb thread
